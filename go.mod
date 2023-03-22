@@ -3,7 +3,7 @@ module github.com/budimanjojo/talhelper
 go 1.18
 
 require (
-	github.com/a8m/envsubst v1.3.0
+	github.com/a8m/envsubst v1.4.2
 	github.com/evanphx/json-patch v5.6.0+incompatible
 	github.com/joho/godotenv v1.4.0
 	github.com/sabhiram/go-gitignore v0.0.0-20210923224102-525f6e181f06
